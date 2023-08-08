@@ -1,1 +1,1 @@
-# go-bookstore-api
+# A Bookstore Management CRUD API
